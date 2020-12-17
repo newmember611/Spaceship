@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4e59276e2cb49d342847f29a12010547
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Poster King
+  fontNames:
+  - The Poster King
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2d22335d7e6365b4fa5d750230d96429, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
